@@ -1,0 +1,9 @@
+python-dotenv
+beautifulsoup4
+requests
+tldextract
+streamlit
+pandas
+plotly
+aiohttp
+asyncio
